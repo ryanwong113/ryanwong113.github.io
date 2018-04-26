@@ -15,3 +15,6 @@ body .top-nav-item:hover {
 body .top-nav-item:active {
   text-decoration: underline;
 }
+body .emoji {
+  width: 25px;
+}
